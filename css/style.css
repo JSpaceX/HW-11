@@ -457,11 +457,14 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 	font-weight: 600;
 	font-size: 19px;
 	line-height: 23px;
-
+	color: #333333;
 }
 /*===========================================================================================*/
 .doctypes__item:hover{
 	box-shadow: 0px 2px 10px rgb(112, 125, 240);
+	color: rgb(240, 198, 120);
+}
+.doctypes__text:hover{
 	color: rgb(240, 198, 120);
 }
 /*===========================================================================================*/
