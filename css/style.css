@@ -448,6 +448,7 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 	box-shadow: 0px 7px 30px rgba(0, 0, 0, 0.1);
 	margin: 10px;
 	padding: 30px;
+	color: #333333;
 }
 .doctypes__image {
 	margin-bottom: 15px;
