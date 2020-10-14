@@ -471,12 +471,6 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 	background: #F6F6F6;
 	padding: 50px 0;
 }
-.advantages__container {
-}
-._container {
-}
-.advantages__title {
-}
 .advantages__item {
 	display: inline-block;
 	width: 240px;
@@ -487,7 +481,6 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 	margin: 0 20px;
 }
 .advantages__image img {
-
 	background-color: #fff;
 	border-radius: 50%;
 }
@@ -531,8 +524,6 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 }
 /*===========================================================================================*/
 /*=======================================edu-programs========================================*/
-.main__edu-programs {
-}
 .edu-programs{
 	padding: 45px 0 40px 0;
 }
@@ -594,8 +585,6 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 .news__title {
 	text-align-last: left;
 	margin: 0 0 45px 10px;
-}
-.title {
 }
 .news__item {
 	display: inline-block;
