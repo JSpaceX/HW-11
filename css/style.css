@@ -457,6 +457,7 @@ input[type="text"], input[type="email"], input[type="tel"], textarea{
 	font-weight: 600;
 	font-size: 19px;
 	line-height: 23px;
+	color: #333333;
 }
 /*===========================================================================================*/
 .doctypes__item:hover{
